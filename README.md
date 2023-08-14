@@ -61,7 +61,7 @@
   - Confirm that Clients receive timely notifications about any unexpected situations in the gym and are informed about special offers or announcements.
   - Verify that Clients can access and review their notifications to stay well-informed about gym-related updates.
 
-
+---
 
 **Functional Requirements:**
 
